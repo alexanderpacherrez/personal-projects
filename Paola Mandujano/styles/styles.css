@@ -1,0 +1,28 @@
+* {
+    margin: 10px;
+}
+
+h1 {
+    background-color: rgba(200, 223, 209, 0.734);
+    text-align: center;
+    font-size: 50px;
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgba(221, 207, 234, 0.601);
+    align-items: center;
+}
